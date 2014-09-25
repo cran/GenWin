@@ -1,0 +1,8 @@
+6e8be492accde4f357ce8f7729d7d2cb *DESCRIPTION
+7bd4cf27eac7ca2c12ac508787f47823 *LICENSE
+12d311636ed6f087bf914ec389a244d5 *NAMESPACE
+751c6233a9ea8b25ba88f4d7dc27b2a8 *R/chr6-data.R
+050fe8b992a569278d2112dab8216f2c *R/spline_analyze.R
+824f228a531a254da1dca83d5cd8cb73 *data/chr6.RData
+ffebea67349117cf778c62c2d088bb0e *man/chr6.Rd
+0ffc49b599e5cd65653883b99c2cb041 *man/splineAnalyze.Rd

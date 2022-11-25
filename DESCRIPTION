@@ -1,9 +1,9 @@
 Package: GenWin
 Title: Spline Based Window Boundaries for Genomic Analyses
-Version: 0.1
-Date: 9/25/2014
-Author: Timothy M. Beissinger <beissinger@ucdavis.edu>
-Maintainer: Timothy M. Beissinger <beissinger@ucdavis.edu>
+Version: 1.0
+Date: 2022-11-25
+Author: Timothy M. Beissinger <timbeissinger@gmail.com>
+Maintainer: Timothy M. Beissinger <timbeissinger@gmail.com>
 Description: Defines window or bin boundaries for the analysis of genomic data.
     Boundaries are based on the inflection points of a cubic smoothing spline
     fitted to the raw data. Along with defining boundaries, a technique to
@@ -13,10 +13,12 @@ Description: Defines window or bin boundaries for the analysis of genomic data.
     Wright's fixations index, Fst, which measures variability in subpopulations
     relative to the total population).
 Depends: R (>= 3.1.1)
-Imports: pspline
+Imports: pspline, stats, graphics
+Encoding: UTF-8
 License: MIT + file LICENSE
 LazyData: true
-Packaged: 2014-09-26 13:33:03 UTC; beissinger
+RoxygenNote: 7.2.2
 NeedsCompilation: no
+Packaged: 2022-11-25 08:04:04 UTC; beissinger
 Repository: CRAN
-Date/Publication: 2014-09-26 16:51:09
+Date/Publication: 2022-11-25 12:20:02 UTC

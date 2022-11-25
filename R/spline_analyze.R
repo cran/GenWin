@@ -28,6 +28,8 @@
 #'}
 #'
 #' @import pspline
+#' @importFrom graphics lines par
+#' @importFrom stats var
 #' @export
 
 
